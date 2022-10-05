@@ -10,5 +10,4 @@ I am a self-taught front-end developer looking for new professional opportunitie
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tiserett&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tiserett&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiserett&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
