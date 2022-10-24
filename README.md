@@ -3,7 +3,7 @@ I am a self-taught front-end developer looking for new professional opportunitie
 
 
 ## 🌐 Contact me via:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maksym-sobko-253a8824a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sobko-253a8824a/) 
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=white)](https://t.me/makssobko)
 
 # 💻 Tech Stack:
