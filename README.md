@@ -2,7 +2,7 @@
 I am a self-taught front-end developer looking for new professional opportunities.<br>1 year of practice in Web Development.
 
 
-## 🌐 Socials:
+## 🌐 Contact me via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maksym-sobko-253a8824a/) 
 
 # 💻 Tech Stack:
