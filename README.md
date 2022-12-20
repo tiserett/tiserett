@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught front-end developer looking for new professional opportunities.<br>1 year of practice in Web Development.
+I am a self-taught front-end developer.<br>1 year of practice in Web Development.
 
 
 ## 🌐 Contact me via:
