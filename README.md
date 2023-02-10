@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught front-end developer.<br>1 year of practice in Web Development.
+I am a self-taught Full-Stack Developer.<br>1 year of practice in Web Development.
 
 
 ## 🌐 Contact me via:
