@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught Full-Stack Developer.<br>1 year of practice in Web Development.
+I am a self-taught Full-Stack Developer.<br>More then a year in Development.
 
 
 ## 🌐 Contact me via:
