@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a self-taught Full-Stack Developer.<br>More then a year in Development.
+I'm a Full-Stack Developer at FTech.
+<br>
+I'm also a Full-Stack Mentor at Mate Academy.
+<br>
+More then a year in Development.
 
 
 ## 🌐 Contact me via:
