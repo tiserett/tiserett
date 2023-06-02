@@ -1,12 +1,14 @@
-# 💫 About Me:
-I'm a Full-Stack Developer at FTech.
-<br>
-I'm also a Full-Stack Mentor at Mate Academy.
-<br>
-More than a year in Development.
+# 💫 About Me
+Here is brief summary about my commercial experience: 
+- 6+ months of commercial experience as a Full-Stack Developer. 
+- 3+ months of commercial experience as Mentor at EdTech company. 
+- Worked on a few CRM systems, which are highly used by hundreds of people to support Ukrainian infrastructure. 
+- Good spoken English, as well as good technical and soft skills. 
+
+Always open to new opportunities and challenges.
 
 
-## 🌐 Contact me via:
+## 🌐 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-sobko-253a8824a/) 
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/makssobko)
 
