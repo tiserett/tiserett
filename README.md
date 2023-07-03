@@ -1,6 +1,6 @@
 # 💫 About Me
 Here is brief summary about my commercial experience: 
-- 6+ months of commercial experience as a Full-Stack Developer. 
+- 9+ months of commercial experience as a Full-Stack Developer. 
 - 3+ months of commercial experience as Mentor at EdTech company. 
 - Worked on a few CRM systems, which are highly used by hundreds of people to support Ukrainian infrastructure. 
 - Good spoken English, as well as good technical and soft skills. 
