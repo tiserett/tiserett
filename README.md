@@ -16,7 +16,7 @@ Always open to new opportunities and challenges.
       <tr>
         <td>Apr 2023 - Present</td>
         <td>
-          Mate Academy - Full-Stack Mentor | Instructor
+          Mate Academy - Full-Stack Mentor
         </td>
       </tr>
       <tr>
