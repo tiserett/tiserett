@@ -15,7 +15,7 @@ Always open to new opportunities and challenges.
       <tr>
         <td>Mate Academy</td>
         <td>Full-Stack Mentor</td>
-        <td>Apr 2023 - May 2023</td>
+        <td>Apr 2023 - May 2024</td>
       </tr>
       <tr>
         <td>FTech</td>
