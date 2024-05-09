@@ -8,22 +8,19 @@ Always open to new opportunities and challenges.
 
 <table>
       <tr>
+        <td>Lumitech</td>
+        <td>Full-Stack Developer</td>
         <td>Jul 2023 - Present</td>
-        <td>
-          Lumitech - Full-Stack Developer
-        </td>
       </tr>  
       <tr>
-        <td>Apr 2023 - Present</td>
-        <td>
-          Mate Academy - Full-Stack Mentor
-        </td>
+        <td>Mate Academy</td>
+        <td>Full-Stack Mentor</td>
+        <td>Apr 2023 - May 2023</td>
       </tr>
       <tr>
+        <td>FTech</td>
+        <td>Full-Stack Developer</td>
         <td>Nov 2022 - Jul 2023</td>
-        <td>
-          FTech - Full-Stack Developer
-        </td>
       </tr>  
 </table>
 
