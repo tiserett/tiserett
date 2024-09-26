@@ -1,9 +1,5 @@
 # 💫 About Me
-Hello 👋\
-I'm highly skilled Full-Stack Developer with a wide range of technical expertise.\
-Fluent in spoken English and possessing excellent communication and problem-solving abilities.\
-Always open to new opportunities and challenges.
-
+Hello 👋
 ## Commercial Experience        
 
 <table>
