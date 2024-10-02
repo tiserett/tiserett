@@ -10,7 +10,7 @@ Hello 👋
       </tr>  
       <tr>
         <td>Lumitech</td>
-        <td>Full-Stack Developer</td>
+        <td>Full-Stack Software Engineer</td>
         <td>Jul 2023 - Jun 2024</td>
       </tr>  
       <tr>
@@ -20,7 +20,7 @@ Hello 👋
       </tr>
       <tr>
         <td>FTech</td>
-        <td>Full-Stack Developer</td>
+        <td>Full-Stack Software Engineer</td>
         <td>Nov 2022 - Jul 2023</td>
       </tr>  
 </table>
