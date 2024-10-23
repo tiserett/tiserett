@@ -1,6 +1,6 @@
 # 💫 About Me
 Hello 👋
-## Commercial Experience        
+## Experience        
 
 <table>
        <tr>
