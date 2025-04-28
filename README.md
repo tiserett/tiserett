@@ -18,9 +18,9 @@
         <td>Apr 2023 - May 2024</td>
       </tr>
       <tr>
-        <td>FTech</td>
+        <td>GoTeCo</td>
         <td>Full-Stack Software Engineer</td>
-        <td>Nov 2022 - Jul 2023</td>
+        <td>Nov 2021 - Jul 2023</td>
       </tr>  
 </table>
 
