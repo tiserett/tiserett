@@ -1,4 +1,11 @@
-# 💫 About Me
+# About Me
+
+Frontend Software Engineer with 4+ years of experience specializing in React, RTK, and TypeScript.
+
+Fluent in English and a strong team player, driven to take full ownership of building and delivering features.
+
+Collaborating closely with Designers, Product Managers, and QA.
+
 ## Experience        
 
 <table>
@@ -24,6 +31,6 @@
       </tr>  
 </table>
 
-## 🌐 Contact Me
+## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymsobko/)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/makssobko)
