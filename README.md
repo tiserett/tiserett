@@ -1,10 +1,8 @@
 # About Me
 
-Frontend Software Engineer with 3+ years of experience specializing in React, RTK, and TypeScript.
+Frontend Software Engineer with 3+ years of experience specializing in React, TypeScript, and RTK.
 
-Fluent in English and a strong team player, driven to take full ownership of building and delivering features.
-
-Collaborating closely with Designers, Product Managers, and QA.
+I'm product-oriented, fluent in English, and take full responsibility for the features I build - from collaborating with designers, PMs, and QAs - to delivering clean, maintainable architecture.
 
 ## Experience        
 
@@ -30,6 +28,16 @@ Collaborating closely with Designers, Product Managers, and QA.
         <td>Nov 2022 - Jul 2023</td>
       </tr>  
 </table>
+
+## Personal Interests
+
+I enjoy reading books, they've had a significant impact on how I approach software development. Some of my favorites are:
+
+- **“Design Patterns” by the Gang of Four** - for it's influence on my understanding of reusable design solutions.
+
+- **“Clean Architecture” by Robert C. Martin** - for it's influence on how I think about designing scalable and maintainable architecture.
+
+- **“The Clean Coder” by Robert C. Martin** - for it's influence on my mindset around responsibility, communication, and professionalism as a developer.
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymsobko/)
