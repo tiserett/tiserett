@@ -18,8 +18,8 @@ I'm product-oriented, fluent in English, and take full responsibility for the fe
         <td>Jul 2023 - Jun 2024</td>
       </tr>  
       <tr>
-        <td>Mate Academy</td>
-        <td>Full-Stack Mentor</td>
+        <td>Mate Academy (Part-Time)</td>
+        <td>Full-Stack Mentor & Instructor</td>
         <td>Apr 2023 - May 2024</td>
       </tr>
       <tr>
