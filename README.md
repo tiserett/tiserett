@@ -1,6 +1,6 @@
 # About Me
 
-Frontend Software Engineer with 4+ years of experience specializing in React, TypeScript, and RTK. I'm product-oriented, fluent in English, and take full responsibility for the features I build.
+Frontend Software Engineer with 3+ years of experience specializing in React, TypeScript, and RTK. I'm product-oriented, fluent in English, and take full responsibility for the features I build.
 
 I care about clean architecture, good communication, and ensuring the codebase stays maintainable over time.
 
@@ -27,6 +27,6 @@ I have experience conducting technical interviews and hiring developers at diffe
       <tr>
         <td>FTech</td>
         <td>Full-Stack Software Engineer</td>
-        <td>Nov 2021 - Jul 2023</td>
+        <td>Nov 2022 - Jul 2023</td>
       </tr>  
 </table>
